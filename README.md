@@ -1,4 +1,4 @@
-# Spotify Song Popularity Prediction
+# Spotify Song Popularity Prediction By Maria Lucia Velasquez-Sebastián Mora
 
 ## Description 
 
