@@ -3,6 +3,7 @@
 ## Description 
 
 This project aims to predict the popularity of songs on Spotify using different regression models. A Spotify dataset is used that contains musical characteristics of the songs, such as danceability, energy, key, loudness, mode, speechiness, instrumentalness, liveness, valence, tempo, and duration_ms.
+Video: https://youtu.be/7cyb4wUUNWA
 ## Requirements
 
 - Python 3
