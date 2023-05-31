@@ -11,7 +11,7 @@ Video: https://youtu.be/7cyb4wUUNWA
 
 ## Install
 
-1. Clone the code for this repository: `git clone https://github.com/tu_usuario/tu_repositorio.git](https://github.com/SebMoraG/Song-Popularity-Prediction/`
+1. Clone the code for this repository:https://github.com/SebMoraG/Song-Popularity-Prediction
 2. Use the dateset in this repository to put in the code and see the results: `SpotifySongP.csv`
 3. If you want to do the project from 0 use tgis dateset to clear it first: 'SpotifySongPolularityAPIExtract'
 
